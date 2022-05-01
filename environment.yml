@@ -15,3 +15,5 @@ dependencies:
   - pip
   - pip:
     - svgling
+    - gensim==4.1.2
+    
