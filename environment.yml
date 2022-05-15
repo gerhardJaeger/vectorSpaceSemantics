@@ -9,6 +9,7 @@ dependencies:
   - scikit-learn
   - numpy
   - scipy
+  - sympy
   - matplotlib
   - pandas
   - bokeh
